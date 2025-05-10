@@ -5,7 +5,7 @@ I am currently studying Information Technology at [School Name],
 focusing on web development with HTML, CSS, JavaScript and PHP.
 
 ### Recent Projects
-- [Portfolio Website](https://github.com/uyen-vu/portfolio-website): Build a personal website to host projects.
+- [Portfolio Website](https://github.com/uyen-vu1907/portfolio-website): Build a personal website to host projects.
 - MAMP Exercise: Configure a local web development environment.
 - SSI Exercise: Use Server Side Added to create content.
 
