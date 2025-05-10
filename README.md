@@ -1,3 +1,4 @@
+![Header Image](header-image.png)
 #Hello, I'm Uyen Vu 👋
 ## Information Technology Student | Web File Trung Phat Trien
 
