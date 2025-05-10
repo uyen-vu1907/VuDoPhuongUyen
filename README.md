@@ -1,5 +1,5 @@
 ![Header Image](header-image.png)
-#Hello, I'm Uyen Vu 👋
+# Hello, I'm Uyen Vu (Welcome to My Profile) 👋
 ## Information Technology Student | Web File Trung Phat Trien
 
 I am currently studying Information Technology at [School Name],
@@ -26,13 +26,14 @@ focusing on web development with HTML, CSS, JavaScript and PHP.
 - Concepts: Web development, database design, accessibility
 
 ### Skill Badges
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow)
-![PHP](https://img.shields.io/badge/PHP-Learning-lightblue)
+![Hình ảnh tiêu đề: Biểu tượng công nghệ](header-image.png)
+![Huy Hiệu HTML: HTML5](https://img.shields.io/badge/HTML-5-orange)
+![Huy Hiệu CSS: CSS3](https://img.shields.io/badge/CSS-3-blue)
+![Huy Hiệu JavaScript: Đang Học](https://img.shields.io/badge/JavaScript-Learning-yellow)
+![Huy Hiệu PHP: Đang Học](https://img.shields.io/badge/PHP-Learning-lightblue)
 
 ### Contact Me
-- LinkedIn: []
+- LinkedIn: [Coming Soon]
 - Email: [phuonguyenvudo@gmail.com]
 - Portfolio: [Coming Soon]
 
